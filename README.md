@@ -18,3 +18,7 @@ Example Component with:
 To install run (with moqui-framework):
 
     $ ./gradlew getComponent -Pcomponent=example
+
+To test run(use --tests ""*ExampleServices" match the case)：
+
+    $ ./gradlew :runtime:component:example:test --tests "*ExampleServices"

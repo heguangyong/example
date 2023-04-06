@@ -21,8 +21,34 @@ along with this software (see the LICENSE.md file). If not, see
     <moqui.basic.LocalizedMessage original="Example Feature" locale="es" localized="Característica Ejemplo"/>
     <moqui.basic.LocalizedMessage original="Example Feature" locale="fr" localized="Caractéristique exemple"/>
     <moqui.basic.LocalizedMessage original="Example Feature" locale="it" localized="Caratteristica Esempio"/>
-    <moqui.basic.LocalizedMessage original="Example Feature" locale="zh" localized="样例特征"/>
+    <moqui.basic.LocalizedMessage original="Example Feature" locale="zh" localized="样例特性"/>
+    <moqui.basic.LocalizedMessage original="Example Feature ID" locale="zh" localized="样例特性ID"/>
+    <moqui.basic.LocalizedMessage original="Example Feature Appl Enum ID" locale="zh" localized="样例特性应用枚举ID"/>
+    <moqui.basic.LocalizedMessage original="Find Example" locale="zh" localized="查找样例"/>
+    <moqui.basic.LocalizedMessage original="Find Examples" locale="zh" localized="查找样例"/>
+    <moqui.basic.LocalizedMessage original="Create Example" locale="zh" localized="新增样例"/>
+    <moqui.basic.LocalizedMessage original="Dynamic Items" locale="zh" localized="动态项"/>
+    <moqui.basic.LocalizedMessage original="Dynamic Items Vue" locale="zh" localized="动态项VUE"/>
+    <moqui.basic.LocalizedMessage original="Example ID" locale="zh" localized="样例ID"/>
+    <moqui.basic.LocalizedMessage original="Offset" locale="zh" localized="偏移"/>
+    <moqui.basic.LocalizedMessage original="Period" locale="zh" localized="时期"/>
+    <moqui.basic.LocalizedMessage original="Items" locale="zh" localized="子项"/>
+    <moqui.basic.LocalizedMessage original="Features" locale="zh" localized="特性"/>
+    <moqui.basic.LocalizedMessage original="Content" locale="zh" localized="内容"/>
+    <moqui.basic.LocalizedMessage original="DB Test" locale="zh" localized="数据库测试"/>
+    <moqui.basic.LocalizedMessage original="Policies" locale="zh" localized="政策"/>
+    <moqui.basic.LocalizedMessage original="Terms" locale="zh" localized="条款"/>
+    <moqui.basic.LocalizedMessage original="Wiki" locale="zh" localized="维基"/>
+    <moqui.basic.LocalizedMessage original="Markdown" locale="zh" localized="MD格式"/>
+    <moqui.basic.LocalizedMessage original="Examples" locale="zh" localized="示例"/>
+    <moqui.basic.LocalizedMessage original="Feature" locale="zh" localized="特性"/>
+    <moqui.basic.LocalizedMessage original="Survey" locale="zh" localized="调查"/>
+    <moqui.basic.LocalizedMessage original="Find Example Feature" locale="zh" localized="查看示例特性"/>
+    <moqui.basic.LocalizedMessage original="New Feature" locale="zh" localized="新特性"/>
+    <moqui.basic.LocalizedMessage original="Loaded [${records}] records in ${totalSeconds} seconds." locale="zh" localized=" ${totalSeconds}秒加载[${records}]条记录."/>
 
     <moqui.basic.LocalizedMessage original="Test expansion ${ec.user.locale} original" locale="en"
             localized="Test expansion ${ec.factory.moquiVersion} localized"/>
+    <moqui.basic.LocalizedMessage original="Test expansion ${ec.user.locale} original" locale="zh"
+            localized="测试扩展 ${ec.factory.moquiVersion} 本地化"/>
 </entity-facade-xml>
